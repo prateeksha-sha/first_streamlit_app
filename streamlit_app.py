@@ -1,7 +1,7 @@
 import streamlit
 
 streamlit.title('My parents new healthy Diner')
-Brekfast Menu
+Breakfast Menu
 
 
 Omega 3 and Blueberry Oatmeal
